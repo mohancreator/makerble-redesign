@@ -1,0 +1,19 @@
+.card-container-task {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 15px;
+    height: 95px;
+    width: 312px;
+}
+
+.heading-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 2px solid #eaeef1;
+}
+
+.card-heading {
+    color: #23527c;
+    font-family: 'Quicksand';
+}
